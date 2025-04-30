@@ -11,3 +11,5 @@ Normal text
 ``` python
 print("Hello World!")
 ```
+- [ ] Read a book
+- [X] Learn markdown
